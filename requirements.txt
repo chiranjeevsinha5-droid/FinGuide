@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+openpyxl
+pdfplumber
+pyxlsb
+xlrd
